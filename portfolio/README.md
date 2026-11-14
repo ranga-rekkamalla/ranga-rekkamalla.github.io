@@ -70,6 +70,9 @@ The portfolio presents:
 portfolio/
 ├── index.html
 ├── Rangaprasad_Rekkamalla_Resume.pdf
+├── favicon.svg / favicon.ico / apple-touch-icon.png
+├── brand/                  # Modular R logo files
+├── rangaprasad/index.html  # redirect from the old /rangaprasad/ URL
 └── README.md
 ```
 
@@ -103,6 +106,8 @@ The repository includes a GitHub Actions workflow:
 ```
 
 The workflow publishes the `portfolio/` directory through GitHub Pages whenever changes are pushed to the `main` branch.
+
+Live site: **https://rranga.github.io/** (this repository is the `rranga.github.io` user site; the old `/rangaprasad/` path redirects here).
 
 After GitHub Pages is enabled for the repository, the Actions workflow provides the deployed site URL.
 

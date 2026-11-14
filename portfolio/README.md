@@ -1,6 +1,6 @@
 # Rangaprasad Rekkamalla — Professional Portfolio
 
-> Senior Frontend Engineer · Angular Specialist · React Developer · Frontend Architect
+> Senior Frontend Engineer · Frontend Architecture · Angular · React
 
 This directory contains the standalone portfolio website for **Rangaprasad Rekkamalla**, a frontend engineer with 10+ years of experience building scalable enterprise web applications.
 
@@ -69,6 +69,7 @@ The portfolio presents:
 ```text
 portfolio/
 ├── index.html
+├── Rangaprasad_Rekkamalla_Resume.pdf
 └── README.md
 ```
 
@@ -81,9 +82,11 @@ It includes:
 - Dark / light theme switching
 - Responsive desktop and mobile layout
 - Animated frontend architecture visual
-- Scroll reveal animations
+- Load-time hero animation (content below the hero is never hidden, so full-page captures, print and link previews render completely)
 - Scroll progress indicator
-- Work / capability sections
+- Selected work (project case cards), capabilities and technology map
+- Downloadable résumé (PDF)
+- Open Graph metadata, skip link and visible focus states
 - Career timeline
 - Technology overview
 - GitHub and LinkedIn links
@@ -111,9 +114,7 @@ The next evolution can include:
 - Live GitHub repository/project data
 - Project filtering
 - Detailed project case studies
-- Downloadable resume
 - Contact section
-- SEO and Open Graph metadata
 - Additional accessibility and performance refinements
 
 ## Professional Links

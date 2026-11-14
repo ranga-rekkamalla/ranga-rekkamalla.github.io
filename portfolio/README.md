@@ -107,7 +107,7 @@ The repository includes a GitHub Actions workflow:
 
 The workflow publishes the `portfolio/` directory through GitHub Pages whenever changes are pushed to the `main` branch.
 
-Live site: **https://rranga.github.io/** (this repository is the `rranga.github.io` user site; the old `/rangaprasad/` path redirects here).
+Live site: **https://ranga-rekkamalla.github.io/** (this repository is the `ranga-rekkamalla.github.io` user site; the old `/rangaprasad/` path redirects here).
 
 After GitHub Pages is enabled for the repository, the Actions workflow provides the deployed site URL.
 
@@ -126,7 +126,7 @@ The next evolution can include:
 
 ## Professional Links
 
-- GitHub: https://github.com/rranga
+- GitHub: https://github.com/ranga-rekkamalla
 - LinkedIn: https://www.linkedin.com/in/rangaaprasad
 - Email: rangaprasad88@gmail.com
 - WhatsApp: +91 98846 46015

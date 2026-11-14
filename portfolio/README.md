@@ -79,9 +79,11 @@ The current portfolio is a lightweight, responsive static site designed to demon
 
 It includes:
 
-- Dark / light theme switching
+- "Blueprint" visual identity: Prussian-blue drafting ink with a brass accent (dark) and blueprint paper (light), WCAG AA contrast in both
+- Dark / light theme switching with a circular View Transition reveal from the toggle
 - Responsive desktop and mobile layout
-- Animated frontend architecture visual
+- Hero drafting sequence on load: headline drafts in, axis lines and rings draw, architecture core settles, labels arrive in order
+- Blueprint corner marks on card hover/focus and a timeline line that draws on scroll (decorative only; content is never hidden)
 - Load-time hero animation (content below the hero is never hidden, so full-page captures, print and link previews render completely)
 - Scroll progress indicator
 - Selected work (project case cards), capabilities and technology map
